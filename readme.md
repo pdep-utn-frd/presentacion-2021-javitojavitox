@@ -20,10 +20,13 @@ Me llamo Javier Alberto Benitez y por este medio me voy a presentar
 
 - Aprender a programar.
 - Jugar videojuegos.
-- Escuchar música.
+- Escuchar música (Rock y Metal).
 
 ### Mascotas
 
 Tengo un perrito, una perrita y un gatito.
 
+
+![Mi gatito](https://i.imgur.com/Bj7IrzT.jpeg)
+![Mi perritos](https://i.imgur.com/Tq1XEqf.png)
 
