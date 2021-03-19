@@ -11,8 +11,10 @@ Me llamo Javier Alberto Benitez y por este medio me voy a presentar
 - Vivo en: Lima
 - Legajo: 10908
 - Trabajo en: En el área de sistemas de la municipalidad de Zárate.
-- Estudio: Ingenería en sistemas de información.
-- Universidad: Universidad Tecnologica Nacional Facultad Regional Delta (UTN FRD)
+- Titulo secundario: Técnico Electromecánico.
+- Secundaria: Escuela Técnica Nro 5 de Zárate.
+- Estudio: Ingeniería en sistemas de información.
+- Universidad: Universidad Tecnológica Nacional Facultad Regional Delta (UTN FRD)
 
 ### Hobbies
 
@@ -22,6 +24,6 @@ Me llamo Javier Alberto Benitez y por este medio me voy a presentar
 
 ### Mascotas
 
-Tengo un perrito, una perrita y un gatito. 
+Tengo un perrito, una perrita y un gatito.
 
 
