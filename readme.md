@@ -6,7 +6,7 @@ Me llamo Javier Alberto Benitez y por este medio me voy a presentar
 
 ### Mis datos
 
-- Fecha de nacimiento 
+- Fecha de nacimiento: 19 de Noviembre de 1997.
 - Edad: 23 años
 - Vivo en: Lima
 - Legajo: 10908
